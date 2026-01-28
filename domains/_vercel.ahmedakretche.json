@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "your-github-username",
+        "email": "[email protected]"
+    },
+    "records": {
+        "TXT": "vc-domain-verify=ahmedakretche.is-a.dev,1a31a556c89b8061e834"
+    }
+}
